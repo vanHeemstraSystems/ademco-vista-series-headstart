@@ -25,6 +25,7 @@ AC Transformer
 
 | AC | GND | AC |
 |--|--|--|
+| 1 | 2 | 3 |
 | Brown | | Blue |
 
 Keypad
