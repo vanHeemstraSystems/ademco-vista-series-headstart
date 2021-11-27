@@ -21,8 +21,14 @@ PC Board Connections
 | 1 | 2 | 3 | 4 |
 | Brown | Blue | Bell (+) | Bell (-) & Keypad Black/Blue Ground (-) Return | 
 
-AC
+AC Transformer
 
 | AC | GND | AC |
 |--|--|--|
 | Brown | | Blue |
+
+Keypad
+
+| 1 |
+| -- |
+| Black/Blue |
