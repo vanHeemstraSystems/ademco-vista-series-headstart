@@ -16,7 +16,13 @@ Installing the Control Cabinet and PC Board
 
 PC Board Connections
 
-| AC |
-| -- | 
-| 1 |
-|  |
+| AC | AC |
+| -- | -- |
+| 1 | 2 |
+| Brown | Blue |
+
+AC
+
+| AC | GND | AC |
+|--|--|--|
+| Brown | | Blue |
