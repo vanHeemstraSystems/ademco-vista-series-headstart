@@ -68,6 +68,18 @@ The battery will disconnect from the system after its voltage decreases below 9V
 
 ### Earth Ground
 
+Control Cabinet PC Board: Earth Ground (////)
+| Earth Ground (////) |
+| -- |
+| 25 |
+| Metal Cold Water Pipe |
+
+- This product has been designed and laboratory-tested to ensure its resistance to damage from generally expected levels of lighting and electrical discharge, and does not normally require an earth ground. 
+- If an earth ground is desired for additional protection in areas of severe electrical activity, terminal 25 on the control board, or the cabinet, may be used as the ground connection point. The following are examples of good earth grounds available at most installations.
+
+**Metal Cold Water Pipe**: Use a non-corrosive metal strap (copper is recommended) firmly secured to the pipe to which the ground lead is electrically connected and secured.
+
+**AC Power Outlet Ground**: Available from 3-prong, 120VAC power outlets only. To test the integrity of the ground terminal, use a 3-wire circuit tester with neon lamp indicators, such as the UL Listed Ideal Model 61-035, or equivalent, available at most electrical supply stores.
 
 ## 300 - Sounder (Bell) Connections
 
