@@ -46,6 +46,15 @@ Keypad
 
 ### Battery Connections
 
+Control Cabinet PC Board: Black & Red flying leads 
+| PWR (-) | PWR (+) |
+| -- | -- |
+| Black | Red |
+
+12 Volt Backup Battery
+| PWR (-) | PWR (+) |
+| -- | -- |
+| Black | Red |
 
 ### Battery Saver Feature
 
