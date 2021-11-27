@@ -86,5 +86,17 @@ Control Cabinet PC Board: Earth Ground (////)
 
 ## 400 - Connecting the Keypads and Other Addressable Devices
 
+### Connections
 
+Control Cabinet PC Board 
+| GND | AUX | GRN | YEL |
+| -- | -- | -- | -- |
+| 4 | 5 | 6 | 7 |
+| Black/Blue | Red/Brown | Green | Yellow |
+
+Keypad
+| GND (-) Return | Keypad PWR (+) | Data In From Keypad | Data Out From Keypad |
+| -- | -- | -- | -- |
+| 1 | 2 | 3 | 4 |
+| Black/Blue | Red/Brown | Green | Yellow |
 
