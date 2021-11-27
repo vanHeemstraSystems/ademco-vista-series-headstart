@@ -13,3 +13,9 @@ Installing the Control Cabinet and PC Board
 | Mounting Board with RF Rceiver | |
 |--|--|
 |  |  |
+
+PC Board Connections
+| AC |
+| 1 | 
+| -- |
+|  |
