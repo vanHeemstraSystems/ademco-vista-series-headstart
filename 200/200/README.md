@@ -16,10 +16,10 @@ Installing the Control Cabinet and PC Board
 
 PC Board Connections
 
-| AC | AC | BELL | GND |
-| -- | -- | -- | -- |
-| 1 | 2 | 3 | 4 |
-| Brown | Blue | Bell (+) | Bell (-) & Keypad Black/Blue Ground (-) Return | 
+| AC | AC | BELL | GND | AUX |
+| -- | -- | -- | -- | -- |
+| 1 | 2 | 3 | 4 | 5 |
+| Brown | Blue | Bell (+) | Bell (-) & Keypad Black/Blue Ground (-) Return | Bell (+) & Keypad Red/Brown Power (+) |
 
 AC Transformer
 
@@ -30,7 +30,7 @@ AC Transformer
 
 Keypad
 
-| GND |
-| -- |
-| 1 |
-| Black/Blue |
+| GND | PWR |
+| -- | -- |
+| 1 | 2 |
+| Black/Blue | Red/Brown |
