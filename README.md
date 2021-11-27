@@ -6,3 +6,7 @@ Based on "Honeywell Home - Ademco Vista Series, Vista-21iPLTE Security System In
 # 100 - Introduction
 
 See [README.md](./100/README.md)
+
+# 200 - Installation and Setup Guide
+
+See [README.md](./200/README.md)
