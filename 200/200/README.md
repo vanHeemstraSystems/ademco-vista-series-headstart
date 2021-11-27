@@ -1,5 +1,7 @@
 # 200 - Section 2: Mounting and Wiring the Control
 
+![vista](https://user-images.githubusercontent.com/12828104/143685150-47895ddd-461f-4bdc-90e9-23a2a44fb93a.jpeg)
+
 Installing the Control Cabinet and PC Board
 
 | Cabinet and Lock | |
