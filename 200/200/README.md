@@ -15,7 +15,8 @@ Installing the Control Cabinet and PC Board
 |  |  |
 
 PC Board Connections
+
 | AC |
-| 1 | 
-| -- |
+| -- | 
+| 1 |
 |  |
