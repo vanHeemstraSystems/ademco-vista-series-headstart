@@ -29,6 +29,7 @@ AC Transformer
 
 Keypad
 
-| 1 |
+| GND |
 | -- |
-| Black/Blue Ground |
+| 1 |
+| Black/Blue |
