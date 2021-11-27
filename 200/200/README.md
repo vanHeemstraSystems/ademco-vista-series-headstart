@@ -19,7 +19,7 @@ PC Board Connections
 | AC | AC | BELL | GND |
 | -- | -- | -- | -- |
 | 1 | 2 | 3 | 4 |
-| Brown | Blue | Bell (+) | Bell (-) & Keypad Black/Blue | 
+| Brown | Blue | Bell (+) | Bell (-) & Keypad Black/Blue (Ground Return, -) | 
 
 AC
 
