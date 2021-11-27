@@ -31,4 +31,4 @@ Keypad
 
 | 1 |
 | -- |
-| Black/Blue |
+| Black/Blue Ground |
