@@ -46,6 +46,10 @@ Keypad
 
 ### Battery Connections
 
+1. Place the 12-volt backup battery in the cabinet.
+
+2. After all connections to the control are completed and AC power has been applied, connect the red and the black flying leads on the control board to the battery. ***Do not attach these leads to the battery terminals until all connections are completed.***
+
 Control Cabinet PC Board: Black & Red flying leads 
 | PWR (-) | PWR (+) |
 | -- | -- |
@@ -58,7 +62,9 @@ Control Cabinet PC Board: Black & Red flying leads
 
 ### Battery Saver Feature
 
+The battery will disconnect from the system after its voltage decreases below 9VDC. This assists the control panel in recharging the battery when AC is restored.
 
+**IMPORTANT**: The panel will not power up initially on battery power only. You must plug the transformer in first, and then connect the battery.
 
 ### Earth Ground
 
