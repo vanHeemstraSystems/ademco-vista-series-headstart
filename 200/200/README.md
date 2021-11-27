@@ -16,10 +16,10 @@ Installing the Control Cabinet and PC Board
 
 PC Board Connections
 
-| AC | AC |
-| -- | -- |
-| 1 | 2 |
-| Brown | Blue |
+| AC | AC | BELL | GND |
+| -- | -- | -- | -- |
+| 1 | 2 | 3 | 4 |
+| Brown | Blue | Bell (+) | Bell (-) & Keypad Black/Blue | 
 
 AC
 
