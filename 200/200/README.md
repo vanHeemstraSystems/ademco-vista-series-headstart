@@ -136,6 +136,8 @@ Keypad
 
 Product: [resideo IS335 - Passive Infrared Motion Sensor](https://www.alarmgrid.com/products/honeywell-is335)
 
+![honeywell-is335-pet-immune-motion-detector](https://user-images.githubusercontent.com/12828104/149626336-df74b3e1-c161-4d79-b6c2-ebf7a3a7ba10.png)
+
 IS335
 
 Basic Connections at IS335:
