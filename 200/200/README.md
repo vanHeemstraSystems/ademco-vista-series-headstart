@@ -85,9 +85,35 @@ Control Cabinet PC Board: Earth Ground (////)
 
 Product: [resideo, WAVE2PD - Piezo - Dynamic indoor Siren](https://www.security.resideo.com/product-repository/wave2pd-1-sounding-devices)
 
-== IMAGE GOES HERE ==
+![image](https://user-images.githubusercontent.com/12828104/149615218-e2359d14-fdb1-4c03-9d14-457eb608c038.png)
 
 WAVE2PD
+
+Basic Connections at WAVE2PD:
+
+| + | GND | 
+| -- | -- | 
+| 1 | GND | 
+| Red/Brown | Black/Blue |
+
+Basic Connections at Control Board:
+
+| BELL | GND |
+| -- | -- | 
+| 3 | 4 | 
+| Red/Brown | Black/Blue |
+
+
+1. Make sounder connections to alarm output terminals 3(+) and 4 (-).
+2. If not using bell supervision, connect the supplied 820 ohm resistor across terminals 3 and 4. If using bell supervision, see Supervised Output paragraph below.
+
+- The 12VDC sounder output activates when an alarm occurs.
+- Total current drawn from this output cannot exceed 2 amps (going beyond 2 amps will overload the power supply, or may cause the electronic circuit protecting the sounder output to trip).
+- You must install a battery, since the battery supplies this current.
+
+**Supervised Output**
+
+1. Connect 
 
 
 ## 400 - Connecting the Keypads and Other Addressable Devices
