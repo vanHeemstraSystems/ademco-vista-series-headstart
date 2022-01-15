@@ -83,6 +83,12 @@ Control Cabinet PC Board: Earth Ground (////)
 
 ## 300 - Sounder (Bell) Connections
 
+Product: [resideo, WAVE2PD - Piezo - Dynamic indoor Siren](https://www.security.resideo.com/product-repository/wave2pd-1-sounding-devices)
+
+== IMAGE GOES HERE ==
+
+WAVE2PD
+
 
 ## 400 - Connecting the Keypads and Other Addressable Devices
 
