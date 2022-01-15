@@ -113,8 +113,8 @@ Basic Connections at Control Board:
 
 **Supervised Output**
 
-1. Connect 
-
+1. Connect the supplied 820-ohm Bell Supervision EOL resistor across the terminals of the las sounder. See Figure 5. **Bell Supervision Note:** The value of the Bell Supervision EOL Resistor is 820 ohms. **High Impedance Device Note:** If a high impedance sounding device is used (ex. Voice Siren Driver), the bell supervision resistor (included) must be installed at the device.
+2. Set field ```*91``` Option Selection for Bell Supervision (option 1)
 
 ## 400 - Connecting the Keypads and Other Addressable Devices
 
