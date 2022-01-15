@@ -132,3 +132,23 @@ Keypad
 | 1 | 2 | 3 | 4 |
 | Black/Blue | Red/Brown | Green | Yellow |
 
+### Passive Infrared Motion Sensor
+
+Product: [resideo IS335 - Passive Infrared Motion Sensor](https://www.alarmgrid.com/products/honeywell-is335)
+
+IS335
+
+Basic Connections at IS335:
+
+| NC | C | V-/GND | V+ | 
+| -- | -- | -- | -- |
+| NC | C | GND | + |
+| Green | Yellow | Black/Blue | Red/Brown |
+
+Basic Connections at Control Board:
+
+| GND | AUX | GRN | YEL |
+| -- | -- | -- | -- |
+| 4 | 5 | 6 | 7 |
+| Black/Blue | Red/Brown | Green (Data In from Sensor) | Yellow (Data Out to Sensor) |
+
