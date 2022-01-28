@@ -32,6 +32,12 @@ AC Transformer
 | 1 | 2 | 3 |
 | Brown | | Blue |
 
+***WARNING***: For countries that have 220 Volt (e.g. Europe), connect the AC Transformer to a 230 V AC to 110 V AC Converter with 110 VA output power which can be plugged in to the wall power socket. Otherwise your system will be damaged!
+
+![image](https://user-images.githubusercontent.com/12828104/151523923-3e748a74-ca6b-4517-a89f-35410356c1aa.png)
+
+[230 V AC to 110 V AC Convertor](https://www.kabelshop.nl/HQ-Spanningsomvormer-Amerika-naar-Europa-HQ-230V-naar-110V-max-100W-PSUP34-HQ-i11011-t96003.html)
+
 Keypad
 
 | GND | PWR | DATA IN | DATA OUT |
