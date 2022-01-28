@@ -4,6 +4,10 @@
 
 [Ademco Honeywell Vista 21 IP LTE](https://www.alarmsystemstore.com/collections/ademco-honeywell-vista-21ip-kits)
 
+The Honeywell Home VISTA-21iP **LTE** (THIS IS THE MODEL THIS DOCUMENTATION IS ABOUT) is the replacement for the VISTA-21iP. The panel includes built-in IP capabilities, and it supports the new plug-in LTE modules from Resideo. By adding a compatible plug-in LTE module, the system will be dual-path ready. See for details https://www.alarmgrid.com/products/vista-21iplte
+
+Read more: https://www.alarmgrid.com/products/vista-21iplte
+
 ## 100 - Installing the Control Cabinet and PC Board
 
 Installing the Control Cabinet and PC Board
