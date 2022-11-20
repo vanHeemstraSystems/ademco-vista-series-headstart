@@ -9,7 +9,7 @@ Read more: https://www.alarmgrid.com/faq/products/honeywell-vista-21ip-6160kt
 
 Can be read as "Ademco Vista Series" at https://app.gitbook.com/s/???/
 
-Can be browsed as "Ademco Vista Series" at https://vanheemstrasystems.github.io/ademco-vista-series/
+Can be browsed as "Ademco Vista Series" at https://vanheemstrasystems.github.io/ademco-vista-series-headstart/
 
 Documentation of this repository is automatically done with Quarto using GitHub Actions as described at https://github.com/vanHeemstraSystems/quarto-to-github-pages/blob/main/300/300/README.md
 
