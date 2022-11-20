@@ -8,16 +8,17 @@ website:
     background: primary
     search: true
     left:
-      - sidebar:home
+      - text: Home"
+        file: index.qmd
+      - sidebar:introduction
 
 sidebar:
-  - id: home
-    title: "Home"
+  - id: introduction
+    title: "Introduction"
     style: "docked"
     background: light
     collapse-level: 2
     contents:
-      - index.qmd
       - introduction.qmd
 
 format:
