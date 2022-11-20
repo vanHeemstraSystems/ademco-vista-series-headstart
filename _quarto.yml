@@ -5,13 +5,15 @@ project:
 website:
   title: "Ademco Vista Series"
   navbar:
+    background: primary
+    search: true
     left:
-      - href: index.qmd
-        text: Home
+      - sidebar: home
       - about.qmd
 
 sidebar:
-  - title: "Home"
+  - id: home
+    title: "Home"
     style: "docked"
     background: light
     contents:
