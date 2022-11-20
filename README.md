@@ -1,3 +1,5 @@
+[![Quarto Publish](https://github.com/vanHeemstraSystems/ademco-vista-series-headstart/actions/workflows/publish.yml/badge.svg)](https://github.com/vanHeemstraSystems/ademco-vista-series-headstart/actions/workflows/publish.yml)
+
 ademco-vista-series-headstart
 # Ademco Vista Series - Headstart
 
