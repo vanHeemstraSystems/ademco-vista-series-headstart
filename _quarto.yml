@@ -16,6 +16,7 @@ sidebar:
     background: light
     contents:
       - index.qmd
+      - introduction.qmd
 
 format:
   html:
