@@ -10,7 +10,7 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - sidebar:introduction
+      - sidebar: introduction
 
 sidebar:
   - id: introduction
