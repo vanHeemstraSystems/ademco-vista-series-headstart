@@ -10,16 +10,15 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - sidebar:introduction
+      - text: "Introduction"
+        file: introduction.qmd
 
 sidebar:
-  - id: introduction
-    title: "Introduction"
+  - title: "Introduction"
     style: "docked"
     background: light
-    collapse-level: 2
     contents:
-      # - introduction.qmd
+      - introduction.qmd
 
 format:
   html:
