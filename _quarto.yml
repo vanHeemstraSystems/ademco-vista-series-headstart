@@ -10,6 +10,13 @@ website:
         text: Home
       - about.qmd
 
+sidebar:
+  - title: "Home"
+    style: "docked"
+    background: light
+    contents:
+      - index.qmd
+
 format:
   html:
     theme: cosmo
