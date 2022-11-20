@@ -10,7 +10,7 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - sidebar: introduction
+      - sidebar:introduction
 
 sidebar:
   - id: introduction
@@ -19,7 +19,7 @@ sidebar:
     background: light
     collapse-level: 2
     contents:
-      - introduction.qmd
+      # - introduction.qmd
 
 format:
   html:
