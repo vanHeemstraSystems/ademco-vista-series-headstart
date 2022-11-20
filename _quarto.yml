@@ -9,7 +9,6 @@ website:
     search: true
     left:
       - sidebar: home
-      - about.qmd
 
 sidebar:
   - id: home
