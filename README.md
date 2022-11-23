@@ -11,6 +11,8 @@ Read more: https://www.alarmgrid.com/faq/products/honeywell-vista-21ip-6160kt
 
 Use with EnvisaLink™ EVL-4EZR For DSC & Honeywell Systems at https://www.eyezon.com/evl4.php
 
+Eyezon Envisalink Honeywell Installation Guide at [EyezonEnvisalinkHoneywellInstallationGuide2018.pdf](https://github.com/vanHeemstraSystems/ademco-vista-series-headstart/files/10079315/EyezonEnvisalinkHoneywellInstallationGuide2018.pdf)
+
 Use with Home Assistant for EnvisaLink™ at https://www.home-assistant.io/integrations/envisalink/
 
 Can be read as "Ademco Vista Series" at https://app.gitbook.com/s/???/
