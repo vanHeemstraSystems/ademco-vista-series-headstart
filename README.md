@@ -9,7 +9,9 @@ See also [Honeywell VISTA-21iP-6160KT Frequently Asked Questions](https://www.al
 
 Read more: https://www.alarmgrid.com/faq/products/honeywell-vista-21ip-6160kt
 
-Use in combination with EnvisaLink™ EVL-4EZR For DSC & Honeywell Systems at https://www.eyezon.com/evl4.php
+Use with EnvisaLink™ EVL-4EZR For DSC & Honeywell Systems at https://www.eyezon.com/evl4.php
+
+Use with Home Assistant for EnvisaLink™ at https://www.home-assistant.io/integrations/envisalink/
 
 Can be read as "Ademco Vista Series" at https://app.gitbook.com/s/???/
 
