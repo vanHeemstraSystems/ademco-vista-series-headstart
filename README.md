@@ -15,6 +15,8 @@ Eyezon Envisalink Honeywell Installation Guide at [EyezonEnvisalinkHoneywellInst
 
 Use with Home Assistant for EnvisaLink™ at https://www.home-assistant.io/integrations/envisalink/
 
+iPhone App for Eyezon EnvisaLink at https://apps.apple.com/ca/app/eyezon-mobile/id1268337291
+
 Can be read as "Ademco Vista Series" at https://app.gitbook.com/s/???/
 
 Can be browsed as "Ademco Vista Series" at https://vanheemstrasystems.github.io/ademco-vista-series-headstart/
