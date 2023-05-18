@@ -1,17 +1,17 @@
 [
   {
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
+    "section": "",
+    "text": "Table of contents\n\nAdemco Vista Series"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Ademco Vista Series",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
-  },
-  {
-    "objectID": "introduction.html",
-    "href": "introduction.html",
-    "title": "Introduction",
-    "section": "",
-    "text": "Introduction to this site"
   },
   {
     "objectID": "about.html",
@@ -21,10 +21,10 @@
     "text": "About this site"
   },
   {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Ademco Vista Series",
+    "objectID": "introduction.html",
+    "href": "introduction.html",
+    "title": "Introduction",
     "section": "",
-    "text": "Table of contents\n\nAdemco Vista Series"
+    "text": "Introduction to this site"
   }
 ]
