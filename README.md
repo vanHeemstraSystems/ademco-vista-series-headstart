@@ -17,7 +17,7 @@ Use with Home Assistant for EnvisaLink™ at https://www.home-assistant.io/integ
 
 iPhone App for Eyezon EnvisaLink at https://apps.apple.com/ca/app/eyezon-mobile/id1268337291
 
-Can be read as "Ademco Vista Series" at https://app.gitbook.com/s/???/
+Can be read as "Ademco Vista Series" at https://app.gitbook.com/s/S7NTnwu7IvIE8G2BTjCo/
 
 Can be browsed as "Ademco Vista Series" at https://vanheemstrasystems.github.io/ademco-vista-series-headstart/
 
