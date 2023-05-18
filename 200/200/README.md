@@ -14,7 +14,7 @@ Installing the Control Cabinet and PC Board
 |--|--|
 |  |  |
 
-| Mounting the PC Board Alone (no RF Rceiver) | |
+| Mounting the PC Board Alone (no RF Receiver) | |
 |--|--|
 |  |  |
 
