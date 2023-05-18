@@ -12,6 +12,8 @@ website:
         file: index.qmd
       - text: "Introduction"
         file: introduction.qmd
+      - text: "Installation and Setup Guide"
+        file: installation-and-setup-guide.qmd
 
 sidebar:
   - title: "Introduction"
