@@ -14,6 +14,8 @@ website:
         file: introduction.qmd
       - text: "Installation and Setup Guide"
         file: installation-and-setup-guide.qmd
+      - text: "Videos"
+        file: videos.qmd
 
 sidebar:
   - title: "Introduction"
