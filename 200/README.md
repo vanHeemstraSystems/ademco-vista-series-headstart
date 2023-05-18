@@ -8,34 +8,34 @@ See [README.md](./100/README.md)
 
 See [README.md](./200/README.md)
 
-## 200 - Section 3: Programming Overview
+## 300 - Section 3: Programming Overview
 
 See [README.md](./300/README.md)
 
-## 200 - Section 4: Data Field Programming
+## 400 - Section 4: Data Field Programming
 
 See [README.md](./400/README.md)
 
-## 200 - Section 5: Menu Mode Programming
+## 500 - Section 5: Menu Mode Programming
 
 See [README.md](./500/README.md)
 
-## 200 - Section 6: System Communication and Operation
+## 600 - Section 6: System Communication and Operation
 
 See [README.md](./600/README.md)
 
-## 200 - Section 7: Testing the System
+## 700 - Section 7: Testing the System
 
 See [README.md](./700/README.md)
 
-## 200 - Section 8: Specifications & Accessories
+## 800 - Section 8: Specifications & Accessories
 
 See [README.md](./800/README.md)
 
-## 200 - Section 9: Regulatory Agency Statements
+## 900 - Section 9: Regulatory Agency Statements
 
 See [README.md](./900/README.md)
 
-## 200 - Section 10: Limitations and Warranty
+## 1000 - Section 10: Limitations and Warranty
 
 See [README.md](./1000/README.md)
