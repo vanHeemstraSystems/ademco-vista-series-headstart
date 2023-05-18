@@ -18,7 +18,7 @@ Installing the Control Cabinet and PC Board
 |--|--|
 |  |  |
 
-| Mounting Board with RF Rceiver | |
+| Mounting Board with RF Receiver | |
 |--|--|
 |  |  |
 
