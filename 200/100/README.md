@@ -6,7 +6,7 @@ Compatible Devices
 | Device | Limits | Notes |
 |--|--|--|
 | Addressable Keypads | 8 | 6160 Custom Alpha Keypad, see https://www.alarmgrid.com/products/honeywell-6160 |
-| Backup Battery | See note. | Rechargeable (sealed lead-acid type) 12VDC, 4AH minimum. |
+| Backup Battery | See note. | UltraTech IM-1250F1, see https://www.alarmgrid.com/products/ultratech-im-1250f1 Rechargeable (sealed lead-acid type) 12VDC, 4AH minimum. |
 | AC Power Supply | See note. | Plug-in 120VAC transformer, ADEMCO 1361-GT (1361CN-GT in Canada). |
 | 230 V AC to 110 V ACC Convertor | See note. | Convertor, see https://www.kabelshop.nl/HQ-Spanningsomvormer-Amerika-naar-Europa-HQ-230V-naar-110V-max-100W-PSUP34-HQ-i11011-t96003.html |
 
