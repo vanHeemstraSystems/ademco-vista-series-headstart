@@ -174,7 +174,8 @@ Attached the supplied resistors to the Zones and Ground terminal screws as expla
 
 **Note**: Does the direction of a resistor matter? No! Unlike many other components, resistors do not have polarity, meaning you can install them in either direction on a circuit.
 
-| Resistor | Terminal #8 (Z1+) | Terminal #9 (Z1-) | Terminal #10 (Gnd) |
-| Resistor #1 | High | Low | |  |
+| Resistor | Terminal #8 (Z1+) | Terminal #9 (Z1-) | Terminal #10 (Gnd) | Terminal #11 (Z2) |
+| --- | --- | --- | --- | --- |
+| Resistor #1 | High | Low | | |
 | Resistor #2 | | | Low | High |
 
