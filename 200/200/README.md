@@ -168,3 +168,13 @@ Basic Connections at Control Board:
 | 4 | 5 | 6 | 7 |
 | Black/Blue | Red/Brown | Green (Data In from Sensor) | Yellow (Data Out to Sensor) |
 
+### Resistors
+
+Attached the supplied resistors to the Zones and Ground terminal screws as explained in this video: https://www.youtube.com/watch?v=meVnL54Aaeg
+
+**Note**: Does the direction of a resistor matter? No! Unlike many other components, resistors do not have polarity, meaning you can install them in either direction on a circuit.
+
+| Resistor | Terminal #8 (Z1+) | Terminal #9 (Z1-) | Terminal #10 (Gnd) |
+| Resistor #1 | High | Low | |  |
+| Resistor #2 | | | Low | High |
+
