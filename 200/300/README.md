@@ -4,6 +4,21 @@ Intemediate documentation:
 
 1) Power the Control Board by connecting the transformer to the power socket in the wall (220 Volt for Europe).
 2) A high beep will sound once and flashing lights are see on the motherboard.
+
+Check the LEDs on the motherboard:
+
+IP (Web) Network LEDs:
+
+| Status | Color | Description |
+| --- | --- | --- |
+| On | Green | Ethernet Link/Activity (On=Yes; Off=No) |
+| On | Green | Link Speed (On=100MB/s; Off=10 MB/s) |
+| Off | Yellow | Network Collision (Blink=Detected; Off=Normal) |
+
+In conclusion, all is well with regards to IP (Web) Network.
+
+
+
 3) A new device (here: VRV9517E46665) will show in your WiFi connections overview. This is the WiFi module of your Ademco Alarm System currently powered on and connected to your WiFi router. 
 4) If you have not connected a Backup Battery to the Control Board, the Keypad(s) will not be activated, as they require power from the Backup Battery, instead of the mains.
 5) More ...
