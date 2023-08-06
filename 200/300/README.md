@@ -17,7 +17,17 @@ IP (Web) Network LEDs:
 
 In conclusion, all is well with regards to IP (Web) Network.
 
+IP/Cell Status LEDs:
 
+| Status | Color | Description |
+| --- | --- | --- |
+| On | Green | (On=Not Regsitered; Off=Registered) |
+| Blink | Yellow | Message |
+| Blink | Red | Fault (On=No Network Contact; Blink=Panel Fault)
+
+In case of a Panel Fault, do the following:
+
+... More ...
 
 3) A new device (here: VRV9517E46665) will show in your WiFi connections overview. This is the WiFi module of your Ademco Alarm System currently powered on and connected to your WiFi router. 
 4) If you have not connected a Backup Battery to the Control Board, the Keypad(s) will not be activated, as they require power from the Backup Battery, instead of the mains.
