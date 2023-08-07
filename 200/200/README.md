@@ -174,13 +174,14 @@ Attach the supplied resistors to the Zones and Ground terminal screws as explain
 
 **Note**: Does the direction of a resistor matter? No! Unlike many other components, resistors do not have polarity, meaning you can install them in either direction on a circuit.
 
-| Resistor | Terminal #8 (Z1+) | Terminal #9 (Z1-) | Terminal #10 (Gnd) | Terminal #11 (Z2) | Terminal #12 (Z3) | Terminal #13 (Gnd) | Terminal #14 (Z4) | Terminal #15 (Z5) | Terminal #16 (Gnd) |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Resistor #1 | High | Low | | | | | | | |
-| Resistor #2 | | | Low | High | | | | | |
-| Resistor #3 | | | | | High | Low | | | |
-| Resistor #4 | | | | | | Low | High | | |
-| Resistor #5 | | | | | | | | High | Low |
+| Resistor | Terminal #8 (Z1+) | Terminal #9 (Z1-) | Terminal #10 (Gnd) | Terminal #11 (Z2) | Terminal #12 (Z3) | Terminal #13 (Gnd) | Terminal #14 (Z4) | Terminal #15 (Z5) | Terminal #16 (Gnd) | Terminal #17 (Z6) |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Resistor #1 | High | Low | | | | | | | | |
+| Resistor #2 | | | Low | High | | | | | | |
+| Resistor #3 | | | | | High | Low | | | | |
+| Resistor #4 | | | | | | Low | High | | | |
+| Resistor #5 | | | | | | | | High | Low | |
+| Resistor #6 | | | | | | | | | Low | High |
 
 More ...
 
