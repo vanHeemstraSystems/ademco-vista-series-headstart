@@ -44,6 +44,6 @@ In case of a Panel Fault, do the following:
 
 3) A new device (here: VRV9517E46665) will show in your WiFi connections overview. This is the WiFi module of your Ademco Alarm System currently powered on and connected to your WiFi router. 
 4) If you have not connected a Backup Battery to the Control Board, the Keypad(s) will not be activated, as they require power from the Backup Battery, instead of the mains.
-5) More ...
+5) More ... continue with the video "basic component hookup (Vista 20p part 2)" from https://youtu.be/meVnL54Aaeg?t=389
 
 See the manual for more details...
