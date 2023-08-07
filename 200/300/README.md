@@ -29,6 +29,8 @@ In case of a Panel Fault, do the following:
 
 - Check if the wiring inside of the Keypad Panel confirms with below:
 
+![image](https://github.com/vanHeemstraSystems/ademco-vista-series-headstart/assets/1499433/b66fb7d6-fdcb-49d3-87df-334fdcc3f37b)
+
   | Color | Left-to-Right Position |
   | --- | --- |
   | Yellow | Left |
