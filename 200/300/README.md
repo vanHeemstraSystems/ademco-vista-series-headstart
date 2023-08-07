@@ -27,6 +27,15 @@ IP/Cell Status LEDs:
 
 In case of a Panel Fault, do the following:
 
+- Check if the wiring inside of the Keypad Panel confirms with below:
+
+  | Color | Left-to-Right Position |
+  | --- | --- |
+  | Yellow | Left |
+  | Red | Second from Left |
+  | Black/Blue | Second from Right |
+  | Green | Right |
+
 - Do a Power Cycle, see https://www.alarmgrid.com/faq/how-do-you-power-cycle-a-honeywell-vista-series-alarm-control-panel
   
 ... More ...
