@@ -42,12 +42,23 @@ In case of a Panel Fault, do the following:
 
 If the keypad shows an alert and it makes a noise, enter the Secret Code / Master Code followed by the number 1 (Off) on the keypad.
 
-What are default codes?
+[What are default codes](https://www.alarmgrid.com/blog/honeywell-alarm-codes-cheatsheet)?
 
 When a Honeywell System is used for the first time, its **Master Code** (also known as the Secret Code) and its Installer Code will be set to default values. For most Honeywell Panels, the default Master Code is **1234**, and the default Installer Code is 4112. It is normally recommended that you change the Master Code for security purposes. However, the Installer Code can be left at its default so that the user can get back into programming. Keeping the Installer Code at the default does not present any type of security risk.
 
 Read more: https://www.alarmgrid.com/blog/honeywell-alarm-codes-cheatsheet
-  
+
+If you see the following on the keypad:
+
+```
+CHECK 103 LngRng Radio 0000
+```
+
+This would indicate that you have not yet registered with https://www.alarmgrid.com. I have opted for the least expensive subscription of $10 per month. For the registration process I had to supply the following information:
+
+- MAC Address: **B82CA0D2A7E9** (can be found on the top right corder of the Vista 21iPLTE panel)
+- CRC Code: **5BE9** (can be found on the top right corder of the Vista 21iPLTE panel)
+
 ... More ...
 
 3) A new device (here: VRV9517E46665) will show in your WiFi connections overview. This is the WiFi module of your Ademco Alarm System currently powered on and connected to your WiFi router. 
