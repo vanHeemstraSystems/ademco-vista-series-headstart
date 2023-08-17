@@ -39,6 +39,14 @@ In case of a Panel Fault, do the following:
   | Green | Right |
 
 - Do a Power Cycle, see https://www.alarmgrid.com/faq/how-do-you-power-cycle-a-honeywell-vista-series-alarm-control-panel
+
+If the keypad shows an alert and it makes a noise, enter the Secret Code / Master Code followed by the number 1 (Off) on the keypad.
+
+What are default codes?
+
+When a Honeywell System is used for the first time, its **Master Code** (also known as the Secret Code) and its Installer Code will be set to default values. For most Honeywell Panels, the default Master Code is **1234**, and the default Installer Code is 4112. It is normally recommended that you change the Master Code for security purposes. However, the Installer Code can be left at its default so that the user can get back into programming. Keeping the Installer Code at the default does not present any type of security risk.
+
+Read more: https://www.alarmgrid.com/blog/honeywell-alarm-codes-cheatsheet
   
 ... More ...
 
