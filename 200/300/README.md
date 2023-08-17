@@ -59,6 +59,8 @@ This would indicate that you have not yet registered with https://www.alarmgrid.
 - MAC Address: **B82CA0D2A7E9** (can be found on the top right corder of the Vista 21iPLTE panel)
 - CRC Code: **5BE9** (can be found on the top right corder of the Vista 21iPLTE panel)
 
+**TIP**: At anytime you can check your account details with Alarm Grid at https://www.alarmgrid.com/account
+
 ... More ...
 
 3) A new device (here: VRV9517E46665) will show in your WiFi connections overview. This is the WiFi module of your Ademco Alarm System currently powered on and connected to your WiFi router. 
