@@ -63,7 +63,7 @@ This would indicate that you have not yet registered with https://www.alarmgrid.
 
 ... More ...
 
-3) A new device (here: ~~VRV9517E46665~~ HZN500830311) will show in your WiFi connections overview. This is the WiFi module of your Ademco Alarm System currently powered on and connected to your WiFi router. See [Using a WIFI Communicator with a Honeywell Alarm System](https://www.youtube.com/watch?v=XyFMKc7uZ10) As the presenter in the video states MAC prefix of ```Bravo 82 Charlie Alpha 0``` (ours is indeed: **B82CA0**D2A7E9) will already have the WiFi module installed.
+3) A new device (here: ~~VRV9517E46665~~ HZN500830311) will show in your WiFi connections overview. This is the WiFi module of your Ademco Alarm System currently powered on and connected to your WiFi router. See [Using a WIFI Communicator with a Honeywell Alarm System](https://www.youtube.com/watch?v=XyFMKc7uZ10) As the presenter in the video states MAC prefix of ```Bravo 82 Charlie Alpha 0``` (ours is indeed: **B82CA0**D2A7E9) will already have the WiFi module installed. The **VISTA 21IP** (i.e. our model) has the internet communicator already built in. So if you have a VISTA 21IP, you just connect the ethernet cable to the port on the 21IP and then back to the router.
 4) If you have not connected a Backup Battery to the Control Board, the Keypad(s) will not be activated, as they require power from the Backup Battery, instead of the mains.
 5) More ... continue with the video "basic component hookup (Vista 20p part 2)" from https://youtu.be/meVnL54Aaeg?t=389
 
