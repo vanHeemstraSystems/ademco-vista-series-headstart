@@ -7,11 +7,11 @@
     "text": "About this site"
   },
   {
-    "objectID": "installation-and-setup-guide.html",
-    "href": "installation-and-setup-guide.html",
-    "title": "Installation and Setup Guide",
+    "objectID": "SUMMARY.html",
+    "href": "SUMMARY.html",
+    "title": "Table of contents",
     "section": "",
-    "text": "About Installation and Setup Guide"
+    "text": "Table of contents\n\nAdemco Vista Series"
   },
   {
     "objectID": "index.html",
@@ -21,24 +21,24 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "videos.html",
-    "href": "videos.html",
-    "title": "Videos",
-    "section": "",
-    "text": "About videos"
-  },
-  {
-    "objectID": "SUMMARY.html",
-    "href": "SUMMARY.html",
-    "title": "Table of contents",
-    "section": "",
-    "text": "Table of contents\n\nAdemco Vista Series"
-  },
-  {
     "objectID": "introduction.html",
     "href": "introduction.html",
     "title": "Introduction",
     "section": "",
     "text": "Introduction to this site"
+  },
+  {
+    "objectID": "installation-and-setup-guide.html",
+    "href": "installation-and-setup-guide.html",
+    "title": "Installation and Setup Guide",
+    "section": "",
+    "text": "About Installation and Setup Guide"
+  },
+  {
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Videos",
+    "section": "",
+    "text": "About videos"
   }
 ]
