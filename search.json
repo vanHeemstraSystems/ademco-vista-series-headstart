@@ -1,10 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "installation-and-setup-guide.html",
+    "href": "installation-and-setup-guide.html",
+    "title": "Installation and Setup Guide",
     "section": "",
-    "text": "About this site"
+    "text": "About Installation and Setup Guide"
   },
   {
     "objectID": "SUMMARY.html",
@@ -12,6 +12,13 @@
     "title": "Table of contents",
     "section": "",
     "text": "Table of contents\n\nAdemco Vista Series"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   },
   {
     "objectID": "index.html",
@@ -26,13 +33,6 @@
     "title": "Introduction",
     "section": "",
     "text": "Introduction to this site"
-  },
-  {
-    "objectID": "installation-and-setup-guide.html",
-    "href": "installation-and-setup-guide.html",
-    "title": "Installation and Setup Guide",
-    "section": "",
-    "text": "About Installation and Setup Guide"
   },
   {
     "objectID": "videos.html",
